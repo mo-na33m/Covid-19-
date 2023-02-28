@@ -3,6 +3,6 @@ In this project I answer questions mainly to focus on correlations between popul
 [Tableau Link](https://public.tableau.com/app/profile/mohammed.naeem8575/viz/FullCovidProject/Dashboard1) 
 
 
-In the project I use the data for covid vaccinations to provide a visual presentaiton. 
+In this project I use the data for covid vaccinations to provide a visual presentaiton. 
 
 [Tableau Link for part 2 ](https://public.tableau.com/app/profile/mohammed.naeem8575/viz/CovidVaccinations_16756199301520/GlobalVaccineTracker)
